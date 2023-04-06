@@ -10,6 +10,9 @@ def printInfo(some_dict):
             print(some_dict[key][i])
 
 printInfo(dojo)
+print(dojo)
+
+# blah blah blah
 
 # output:
 
